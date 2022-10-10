@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+theme = 'hugo-ficurinia'
+languageCode = 'pt-br'
+title = 'Blog do Prof'
+
+copyright = "Some copyright notice - [my license](https://example.com/license)"
+
+paginate = 5  # number of articles per page in the index
+summaryLength = 70  # number of words for article summaries
