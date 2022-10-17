@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 displayName = "EN"
 isoCode = "en"
-weight = 1
+weight = 2
 rtl = false
 
 title = "Blowfish"
