@@ -1,1 +1,0 @@
-# brunolopesjn.github.io
