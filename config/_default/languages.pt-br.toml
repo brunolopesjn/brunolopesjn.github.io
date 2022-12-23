@@ -58,5 +58,5 @@ dateFormat = "2 January 2006"
     { twitch = "https://twitch.tv/profburnolopes" },
     { twitter = "https://twitter.com/profbrunolopes" },
   #   { whatsapp = "https://wa.me/phone-number" },
-    { youtube = "https://youtube.com/@brunolopesjn" },
+    { youtube = "https://youtube.com/brunolopesjn" },
   ]
