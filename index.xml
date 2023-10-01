@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Boas vindas ao Blog do Prof on Blog do Prof</title>
-    <link>https://examplesite.com/</link>
+    <link>https://profbrunolopes.dev.br/</link>
     <description>Recent content in Boas vindas ao Blog do Prof on Blog do Prof</description>
     <image>
       <title>Blog do Prof</title>
-      <url>https://examplesite.com/img/bruno.png</url>
-      <link>https://examplesite.com/img/bruno.png</link>
+      <url>https://profbrunolopes.dev.br/img/bruno.png</url>
+      <link>https://profbrunolopes.dev.br/img/bruno.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://profbrunolopes.dev.br/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
