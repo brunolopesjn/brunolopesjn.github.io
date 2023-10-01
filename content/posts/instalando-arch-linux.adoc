@@ -1,0 +1,10 @@
+---
+title: "Instalando Arch Linux"
+date: 2023-09-30T21:46:49-03:00
+draft: true
+---
+
+= Instalando Arch Linux
+
+
+
