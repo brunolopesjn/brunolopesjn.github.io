@@ -2,7 +2,6 @@
 title: "Instalando Arch Linux"
 date: 2023-09-30T21:46:49-03:00
 draft: false
-mermaid: true
 ---
 
 Processo de instalação do Arch Linux!
