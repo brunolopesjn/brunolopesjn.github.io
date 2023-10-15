@@ -119,7 +119,7 @@ Mix = false
 enable = true
 [params.page.comment.disqus]
 enable = true
-shortname = "profbrunolopes"
+shortname = "https-profbrunolopes-dev-br.disqus.com"
 
 [markup]
 [markup.highlight]
