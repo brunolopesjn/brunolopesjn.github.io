@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Boas vindas ao Blog do Prof on Blog do Prof</title>
-    <link>https://profbrunolopes.dev.br/</link>
-    <description>Recent content in Boas vindas ao Blog do Prof on Blog do Prof</description>
-    <image>
-      <title>Blog do Prof</title>
-      <url>https://profbrunolopes.dev.br/img/bruno.png</url>
-      <link>https://profbrunolopes.dev.br/img/bruno.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://profbrunolopes.dev.br/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Blog do Prof</title><link>http://brunolopesjn.dev.br/</link><description>Kotlin, Golang e outras coisas que achar interessantes!</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>brunolopesjn@gmail.com (Bruno Lopes)</managingEditor><webMaster>brunolopesjn@gmail.com (Bruno Lopes)</webMaster><lastBuildDate>Sat, 30 Sep 2023 21:46:49 -0300</lastBuildDate><atom:link href="http://brunolopesjn.dev.br/index.xml" rel="self" type="application/rss+xml"/><item><title>Instalando Arch Linux</title><link>http://brunolopesjn.dev.br/posts/instalando-arch-linux/</link><pubDate>Sat, 30 Sep 2023 21:46:49 -0300</pubDate><author>Bruno Lopes</author><guid>http://brunolopesjn.dev.br/posts/instalando-arch-linux/</guid><description>Processo de instalação do Arch Linux!</description></item></channel></rss>
