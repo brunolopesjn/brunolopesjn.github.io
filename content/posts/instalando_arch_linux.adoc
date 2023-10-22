@@ -1,0 +1,26 @@
+---
+title: "Instalando o Arch Linux"
+date: 2023-10-15T18:27:47-03:00
+draft: true
+
+author: "Bruno Lopes"
+categories: [Arch Linux]
+tags: [Arch Linux, Instalação]
+featuredImage: "/img/20231015-instalando-arch-linux.svg"
+featuredImagePreview: "/img/20231015-instalando-arch-linux.svg"
+---
+
+O *Arch Linux* é uma distribuição _Linux_ leve e flexível que busca manter a simplicidade como sua principal filosofia. Lançado em 2002 por _Judd Vinet_, o *Arch Linux* é construído a partir do zero com foco em minimalismo, permitindo que as pessoas usuárias instalem apenas o que realmente necessitam. Ao contrário de muitas outras distribuições que vêm com um conjunto padrão de pacotes e configurações, o *Arch Linux* oferece uma base limpa sobre a qual as pessoas que o utilizam possam construir e personalizar seu sistema exatamente da maneira que desejam.
+
+Uma das características mais distintas do *Arch Linux* é o seu sistema de gerenciamento de pacotes, o *Pacman*. Este gerenciador é conhecido por sua eficiência e simplicidade, permitindo instalações, atualizações e remoções de pacotes com comandos diretos e fáceis de lembrar. Além disso, o *Arch Linux* utiliza o *Arch User Repository* (_AUR_), um repositório comunitário que contém uma vasta quantidade de pacotes mantidos por usuários, ampliando ainda mais as possibilidades de software disponíveis para instalação.
+
+Outro ponto forte do *Arch Linux* é sua documentação. O *Arch Wiki* é amplamente reconhecido como uma das melhores fontes de informação sobre o *Arch Linux*, abrangendo não apenas tópicos específicos do *Arch Linux* em si, mas também conceitos gerais de _Linux_ e software de código aberto.
+
+Optar pelo *Arch Linux* é escolher uma abordagem _"faça você mesmo"_ para a configuração do sistema. Isso pode ser um desafio para pessoas iniciantes, mas é recompensador para aquelas pessoas que desejam aprender mais sobre o funcionamento interno do _Linux_ e ter controle total sobre seu ambiente de computação.
+
+Logo, o objetivo desta postagem é fornecer um guia de instalação do *Arch Linux* baseado no https://wiki.archlinux.org/title/Installation_guide_(Portugu%C3%AAs)[guia de instalação oficial] mas com algumas adições e explicações extras.
+
+== Preparando o [.line-through]#disco# Pendrive de instalação
+
+Nos anos gloriosos dos _CDs_ e _DVDs_ (e também dos disquetes), fazia sentido o uso do termo *disco de instalação*. Porém, nos dias atuais, dificilmente você possui um gravador de _CD_ ou de _DVD_, logo deverá utilizar um _Pendrive_ para gravar a _ISO_ do *Arch Linux* e utiliza-lo como dispositivo de instalação.
+
