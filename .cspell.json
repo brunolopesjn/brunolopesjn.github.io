@@ -1,0 +1,20 @@
+{
+  "language": "en,pt,pt_BR",
+  "ignoreRegExpList": [],
+  "words": [
+    "micronaut",
+    "monolitos",
+    "microserviços",
+    "IntelliJ",
+    "serialização",
+    "deserialização",
+    "Logback",
+    "subpacotes"
+  ],
+  "flagWords": [],
+  "enableFiletypes": [
+    "makefile"
+  ]
+}
+  
+  
