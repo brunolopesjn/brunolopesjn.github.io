@@ -55,7 +55,7 @@ Foram utilizados as seguintes ferramentas durante a escrita desta postagem:
 * OpenJDK 17
 * Kotlin 1.9.10
 * Gradle 8.3
-* Micronaut 4.1.2
+* Micronaut 4.1.5
 
 {{< /admonition >}}
 
@@ -67,8 +67,8 @@ Com o projeto devidamente criado, vamos configurar o _Gradle_ editando primeiram
 ----
 plugins {
     kotlin("jvm") version "1.9.10"
-    id("io.micronaut.application") version "4.0.3"
-    id("io.micronaut.aot") version "4.0.3"
+    id("io.micronaut.application") version "4.1.2"
+    id("io.micronaut.aot") version "4.1.2"
     id("com.google.devtools.ksp") version "1.9.10-1.0.13"
     id("org.jetbrains.kotlin.plugin.allopen") version "1.9.10"
 }
@@ -116,7 +116,7 @@ java {
 }
 
 micronaut {
-    version("4.1.2")
+    version("4.1.5")
     runtime("netty")
     testRuntime("kotest5")
     processing {
