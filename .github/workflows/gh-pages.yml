@@ -20,7 +20,8 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2.0
-          run: gem install rouge
+          
+      - run: gem install rouge
 
       - uses: reitzig/actions-asciidoctor@v2.0.1
         with:
