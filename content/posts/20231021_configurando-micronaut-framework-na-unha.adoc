@@ -116,7 +116,7 @@ java {
 }
 
 micronaut {
-    version("4.1.5")
+    version("4.1.2")
     runtime("netty")
     testRuntime("kotest5")
     processing {
