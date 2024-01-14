@@ -2,7 +2,4 @@
 &lt;img src="/img/20231210_criando-imagem-docker-projetos-kotlin-gradle.png" referrerpolicy="no-referrer">
 &lt;/div>O Docker se tornou a referência de facto quando falamos em contêineres. Como resultado, a prática de criar um contêiner (do inglês container) de uma aplicação que está sendo desenvolvida através de um arquivo Dockerfile tornou-se uma habilidade valorizada no desenvolvimento de software moderno.
 Logo, o objetivo desta postagem é como definir um arquivo Dockerfile de uma aplicação desenvolvida em Kotlin com o gerenciador de projeto Gradle.
-O que é um Dockerfile?</description></item><item><title>Configurando Micronaut Framework na Unha</title><link>http://brunolopesjn.dev.br/posts/20231021_configurando-micronaut-framework-na-unha/</link><pubDate>Sat, 21 Oct 2023 22:54:21 -0300</pubDate><author>Bruno Lopes</author><guid>http://brunolopesjn.dev.br/posts/20231021_configurando-micronaut-framework-na-unha/</guid><description>&lt;div class="featured-image">
-&lt;img src="/img/20231021-configurando-micronaut-framework-na-unha.svg" referrerpolicy="no-referrer">
-&lt;/div>O Micronaut é um framework full stack Java moderno, baseado na JVM e projetado para construir aplicações JVM modulares e que sejam facilmente testáveis. O framework fornece suporte para as linguagens de programação Java, Kotlin e Groovy.
-Foi desenvolvido pelas mesmas pessoas que criaram o Grails framework e se inspira em lições aprendidas ao longo dos anos construindo aplicativos do mundo real, de monólitos a microsserviços usando Spring, Spring Boot e Grails.</description></item></channel></rss>
+O que é um Dockerfile?</description></item></channel></rss>
