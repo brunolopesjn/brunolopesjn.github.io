@@ -1,0 +1,12 @@
+---
+title: "Configurando Projeto Micronaut com Kotlin"
+date: 2024-01-13T22:26:59-03:00
+draft: true
+
+author: "Bruno Lopes"
+categories: [Kotlin]
+tags: [Kotlin, Micronaut]
+featuredImage: "/img/20231021-configurando-micronaut-framework-na-unha.svg"
+featuredImagePreview: "/img/20231021-configurando-micronaut-framework-na-unha.svg"
+---
+
