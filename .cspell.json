@@ -9,7 +9,13 @@
     "serialização",
     "deserialização",
     "Logback",
-    "subpacotes"
+    "subpacotes",
+    "Temurin",
+    "xpto",
+    "Kotlin",
+    "kotlin",
+    "jvmargs",
+    "deserializar"
   ],
   "flagWords": [],
   "enableFiletypes": [
